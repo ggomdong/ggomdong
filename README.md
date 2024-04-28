@@ -3,11 +3,11 @@
 현재 진행중인 프로젝트 : 유앤아이의원 출결관리시스템<br>
 -https://github.com/ggomdong/uni<br>
 -구성<br>
-Web : Nginx 1.18.0
-WSGI : Gunicorn 21.2.0
-WSGI Application : Python 3.10, Django 4.2.7
-DB : Mysql 8.0.35
-CSS : Bootstrap 5
+Web : Nginx 1.18.0<br>
+WSGI : Gunicorn 21.2.0<br>
+WSGI Application : Python 3.10, Django 4.2.7<br>
+DB : Mysql 8.0.35<br>
+CSS : Bootstrap 5<br>
 
 
 <!--
