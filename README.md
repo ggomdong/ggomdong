@@ -1,8 +1,8 @@
 ### 안녕하세요. 꼼동의 깃허브입니다.
 
-현재 진행중인 프로젝트 : 유앤아이의원 출결관리시스템
--https://github.com/ggomdong/uni
--구성
+현재 진행중인 프로젝트 : 유앤아이의원 출결관리시스템<br>
+-https://github.com/ggomdong/uni<br>
+-구성<br>
 Web : Nginx 1.18.0
 WSGI : Gunicorn 21.2.0
 WSGI Application : Python 3.10, Django 4.2.7
