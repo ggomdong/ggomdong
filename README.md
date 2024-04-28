@@ -1,4 +1,14 @@
-### Hi there 👋
+### 안녕하세요. 꼼동의 깃허브입니다.
+
+현재 진행중인 프로젝트 : 유앤아이의원 출결관리시스템
+-https://github.com/ggomdong/uni
+-구성
+Web : Nginx 1.18.0
+WSGI : Gunicorn 21.2.0
+WSGI Application : Python 3.10, Django 4.2.7
+DB : Mysql 8.0.35
+CSS : Bootstrap 5
+
 
 <!--
 **ggomdong/ggomdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
