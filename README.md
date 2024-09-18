@@ -6,7 +6,7 @@
 Web : Nginx 1.18.0<br>
 WSGI : Gunicorn 21.2.0<br>
 WSGI Application : Python 3.10, Django 4.2.7<br>
-DB : Mysql 8.0.35<br>
+DB : Mysql 8.0.39<br>
 CSS : Bootstrap 5<br>
 
 
